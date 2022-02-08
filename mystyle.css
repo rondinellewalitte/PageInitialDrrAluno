@@ -1,0 +1,18 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.container {
+  background-image: linear-gradient(to bottom, rgb(100%, 100%, 100%) 0%, rgb(100%, 100%, 100%) 100%);
+  border: 1px solid #fff;
+  border-radius: 4px 4px 4px 4px;
+  min-height: 115px;
+  box-shadow: 0px 4px 10px 0px rgba(50, 50, 50, 0.3);
+  font-size: 30px;
+}
+
+.tamanho{
+  width: 20px;
+}
